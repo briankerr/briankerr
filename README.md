@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Brian 👋🏼.
 
-<!--
-**briankerr/briankerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A customer centric professional, with a focus on support dev tooling.
 
-Here are some ideas to get you started:
+## Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🥇 Bring out the best in others. I believe that the only way to be successful in a customer facing role is to empower the customer and your colleagues to be more successful.
+
+## Now
+
+* 💌 Postmark (Email API) at ActiveCampaign, managing the US Customer Success team.
+
+## Past
+
+* 🟢 Wildbit supporting Beanstalk (Git/SVN hosting, deployment service), DeployBot (CI/CD), and Conveyor (Git hosting)
