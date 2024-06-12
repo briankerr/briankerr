@@ -1,6 +1,6 @@
 ### Hi, I'm Brian 👋🏼.
 
-A customer centric professional, with a focus on support dev tooling.
+A customer-centric professional, with a focus on supporting services developers use.
 
 ## Goal
 
