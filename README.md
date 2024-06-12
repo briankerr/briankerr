@@ -8,7 +8,7 @@ A customer-centric professional, with a focus on supporting services developers 
 
 ## Now
 
-* 💌 Postmark (Email API) at ActiveCampaign, managing the US Customer Success team.
+* 💌 Postmark (Email API) at ActiveCampaign, managing the Global Customer Success team.
 
 ## Past
 
