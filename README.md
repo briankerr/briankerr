@@ -8,8 +8,9 @@ A customer-centric professional, with a focus on supporting services developers 
 
 ## Now
 
-* 💌 Postmark (Email API) at ActiveCampaign, managing the Global Customer Success team.
+* 👀
 
 ## Past
 
+* 🟡 Postmark (Email API) and DMARC Digests (DMARC Reporting) at ActiveCampaign, managing the Global Customer Success team.
 * 🟢 Wildbit supporting Beanstalk (Git/SVN hosting, deployment service), DeployBot (CI/CD), and Conveyor (Git hosting)
