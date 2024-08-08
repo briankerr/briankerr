@@ -8,7 +8,7 @@ A customer-centric professional, with a focus on supporting services developers 
 
 ## Now
 
-* Customer Success Engineer at Resend (Email API), helping build the future of developer experience around email.
+* Customer Success Engineer at [Resend](https://github.com/resend) (Email API), helping build the future of developer experience around email.
 
 ## Past
 
